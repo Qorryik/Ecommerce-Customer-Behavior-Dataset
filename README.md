@@ -1,9 +1,10 @@
-**# ECOMMERCE CUSTOMER BEHAVIOR ANALYTICS**
+**ECOMMERCE CUSTOMER BEHAVIOR ANALYTICS**
 
 **Dataset Description:**
 This is a comprehensive Customer Engagement and Churn Analytics Dataset containing behavioral, demographic, and transactional data for 50,000 customers across a global e-commerce/subscription platform. The dataset captures 25 distinct features that provide a 360-degree view of customer interactions and engagement patterns.
 
 **Dataset Source:**
+
 https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset
 
 **Column Description:**
@@ -28,6 +29,7 @@ https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dat
 **Process and Methodology:**
 1. Exploratory Data Analysis (EDA)
 2. Data Visualization:
+   
    a. What is the distribution of customers’ age and gender?
    b. Which countries or cities have the highest number of customers?
    c. Is there a relationship between login frequency and average session duration?
@@ -38,4 +40,4 @@ https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dat
    h. Do customers who log in less frequently have a higher chance of churn?
    i. Do customers with fewer purchases have a higher chance of churn?
    j. Do customers with longer days since their last purchase have a higher chance of churning?
-4. Predictive Modeling
+3. Predictive Modeling
