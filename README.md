@@ -18,23 +18,23 @@ A comprehensive dataset containing behavioral, demographic, and transactional da
 
 ## 🧾 Column Description
 
-| Column Name              | Description                  |
-| ------------------------ | ---------------------------- |
-| Age                      | Customer age                 |
-| Gender                   | Customer gender              |
-| Country                  | Customer country             |
-| City                     | Customer city                |
-| Membership_Years         | Length of membership         |
-| Login_Frequency          | Number of logins             |
-| Session_Duration_Avg     | Average session duration     |
-| Pages_Per_Session        | Pages viewed per session     |
-| Mobile_App_Usage         | % of activity via mobile app |
-| Total_Purchases          | Total purchases made         |
-| Discount_Usage_Rate      | Frequency of discount usage  |
-| Returns_Rate             | % of returned purchases      |
-| Returned_Items_Count     | Number of returned items     |
-| Days_Since_Last_Purchase | Days since last purchase     |
-| Churned                  | Churn status (1 = churned)   |
+| Column Name              | Description                                          |
+| ------------------------ | ---------------------------------------------------- |
+| Age                      | Customer age                                         |
+| Gender                   | Customer gender                                      |
+| Country                  | Customer country                                     |
+| City                     | Customer city                                        |
+| Membership_Years         | Duration of customer membership                      |
+| Login_Frequency          | Number of logins within a given period               |
+| Session_Duration_Avg     | Average duration of each session                     |
+| Pages_Per_Session        | Average number of pages visited per session          |
+| Mobile_App_Usage         | Percentage of activity via mobile app                |
+| Total_Purchases          | Total number of purchases made                       |
+| Discount_Usage_Rate      | Frequency of discount usage                          |
+| Returns_Rate             | Percentage of returned purchases                     |
+| Returned_Items_Count     | Number of items returned                             |
+| Days_Since_Last_Purchase | Days since the last purchase                         |
+| Churned                  | Customer churn status (1 = churned, 0 = not churned) |
 
 ---
 
@@ -136,4 +136,4 @@ Key questions explored:
 
 ## ✅ Final Conclusion
 
-This analysis shows that customer engagement—especially login frequency and purchasing activity—plays a more important role in churn behavior than demographic factors such as age. While age and gender describe customer distribution, behavioral metrics are stronger predictors of retention. The tuned Random Forest model provides the most effective solution for churn prediction and can support data-driven retention strategies.
+This analysis shows that customer engagement especially login frequency and purchasing activity plays a more important role in churn behavior than demographic factors such as age. While age and gender describe customer distribution, behavioral metrics are stronger predictors of retention. The tuned Random Forest model provides the most effective solution for churn prediction and can support data-driven retention strategies.
