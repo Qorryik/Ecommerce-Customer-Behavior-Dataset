@@ -31,13 +31,22 @@ https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dat
 2. Data Visualization:
    
    a. What is the distribution of customers’ age and gender?
+   
    b. Which countries or cities have the highest number of customers?
+   
    c. Is there a relationship between login frequency and average session duration?
+   
    d. How does age relate to mobile app usage?
+   
    e. Which age groups tend to have the highest total purchases?
+   
    f. Which age groups use discounts most frequently?
+   
    g. Does higher total purchase lead to higher discount usage?
+   
    h. Do customers who log in less frequently have a higher chance of churn?
+   
    i. Do customers with fewer purchases have a higher chance of churn?
+   
    j. Do customers with longer days since their last purchase have a higher chance of churning?
-3. Predictive Modeling
+4. Predictive Modeling
