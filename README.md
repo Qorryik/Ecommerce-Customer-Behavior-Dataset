@@ -1,5 +1,4 @@
-# 🛒 **E-Commerce Customer Behavior Analytics**
---
+# **E-Commerce Customer Behavior Analytics**
 
 ## 📌 Project Overview
 
@@ -51,18 +50,30 @@ A comprehensive dataset containing behavioral, demographic, and transactional da
 
 Key questions explored:
 
-* Customer distribution by **age and gender**
-* Top **countries and cities**
-* Relationship between **login frequency & session duration**
-* **Mobile app usage** across age groups
-* Purchase behavior by **age group**
-* Discount usage patterns
-* Churn behavior based on **login frequency** and **purchase frequency**
+* What is the distribution of customers’ age and gender?
+
+* Which countries or cities have the highest number of customers?
+
+* Is there a relationship between login frequency and average session duration?
+
+* How does age relate to mobile app usage?
+
+* Which age groups tend to have the highest total purchases?
+
+* Which age groups use discounts most frequently?
+
+* Does higher total purchase lead to higher discount usage?
+
+* Do customers who log in less frequently have a higher chance of churn?
+
+* Do customers with fewer purchases have a higher chance of churn?
+
+* Do customers with longer days since their last purchase have a higher chance of churning?
 
 ### 3. Predictive Modeling
 
-* Logistic Regression (baseline & interpretable model)
-* Random Forest (non-linear, high-performance model)
+* Logistic Regression 
+* Random Forest 
 
 ---
 
